@@ -1,6 +1,6 @@
 
- ¦¯¯ ¦¯¦ ¦¯_ ¦¯¯ ¦¯¦ ¯_¯
- ¦__ ¦_¦ ¦_¯ ¦¦_ ¦¯_ ¦¦¦
+ Â¦Â¯Â¯ Â¦Â¯Â¦ Â¦Â¯_ Â¦Â¯Â¯ Â¦Â¯Â¦ Â¯_Â¯
+ Â¦__ Â¦_Â¦ Â¦_Â¯ Â¦Â¦_ Â¦Â¯_ Â¦Â¦Â¦
 
 [*] Introduction:"
 Local Scanner Tool, Simple bash script writen by Andrei Abd | CoderX
